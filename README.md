@@ -8,5 +8,5 @@ Based : .NetFrameword 4.0
 Lang  : C\# 
 
 Contact Me : 
-  Email : `kinoandworld@gmail.com`    
-  QQ    : `992276678`
+- Email : `kinoandworld@gmail.com`    
+- QQ    : `992276678`
