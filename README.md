@@ -4,7 +4,7 @@ OneKeyIcon
 ##反正写得很渣就是了(摊手)
 
 ###Based : .NetFrameword 4.0 
-###Lang  : C#
+###Lang  : C\#
 
 ####Contact Me : 
 #####  EMail : `kinoandworld@gmail.com`    
