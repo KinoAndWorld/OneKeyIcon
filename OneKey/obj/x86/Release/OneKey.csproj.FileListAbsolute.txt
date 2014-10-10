@@ -1,0 +1,14 @@
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\bin\Release\OneKey.exe.manifest
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\bin\Release\OneKey.application
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\bin\Release\OneKey.exe
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\bin\Release\OneKey.pdb
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\OneKey.Form1.resources
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\OneKey.frmAddConfig.resources
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\OneKey.Properties.Resources.resources
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\OneKey.exe.manifest
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\OneKey.application
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\OneKey.exe
+C:\Users\kino\Desktop\oneKey\OneKey\OneKey\obj\x86\Release\OneKey.pdb
